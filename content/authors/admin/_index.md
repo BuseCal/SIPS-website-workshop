@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: ELif Buse Caliskan
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Elif Buse
+last_name: Caliskan
 
 # Status emoji
 status:
